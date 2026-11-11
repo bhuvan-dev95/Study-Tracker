@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "Personal study planner, Pomodoro timer, exam countdown, and revision tracker for BE Computer Engineering, GPSC, and SSC CGL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
